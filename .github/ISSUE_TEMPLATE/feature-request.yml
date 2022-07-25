@@ -1,7 +1,7 @@
 name: Feature Request
 description: Request for new Feature
 title: "[Feature Request]: "
-labels:["features", "request"]
+labels: ["features", "request"]
 assignees:
   - florintanasa
 body:
